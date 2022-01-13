@@ -1,0 +1,44 @@
+/* 
+public class intake {
+
+  // Outputs the camera to the the driverstation
+  public void Camera {
+    video = Camera.video;
+    driverStation.show(video);
+  }
+  
+  // Outputs whether the ball is ... to the robot's lights and driver station
+  public void ...ColorSensor {
+    if motor.getColor == green {
+	    light = off;
+	    driverstation = empty;
+    }
+    if motor.getColor == red {
+	    light = red;
+	    driverstation = red;
+    }
+    if motor.getColor == blue {
+	    light = blue;
+	    Driverstation = blue;
+    }
+
+  }
+  
+  // Outputs whether the ball is ... to the robot's lights and driver station
+  public void ...ColorSensor {
+    if motor.getColor == green {
+	    light = off;
+	    driverstation = empty;
+    }
+    if motor.getColor == red {
+	    light = red;
+	    driverstation = red;
+      motor.setPower()
+    }
+    if motor.getColor == blue {
+	    light = blue;
+	    Driverstation = blue;
+    }
+  }
+}
+*/
