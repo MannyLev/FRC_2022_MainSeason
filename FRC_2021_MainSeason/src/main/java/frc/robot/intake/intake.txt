@@ -1,0 +1,22 @@
+public class intake {
+
+    // Maintains the first motor
+    public Motor motor1;
+
+    // Maintains the second motor
+    public Motor motor2;
+
+    // Maintains the first intake motor
+    public void intakeMotor1() {
+        if(buttonPressed) {
+            motorPower1 = 50
+        }
+    }
+
+    // Maintains the second intake motor
+    public void intakeMotor2() {
+        if(buttonPressed) {
+            motorPower2 = 50
+        }
+    }
+}
